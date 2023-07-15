@@ -6,4 +6,5 @@ Will need extensive mods to work for you, but inlcuding as examples of grabbing 
 
 Uses stock hardware. My initial goal was a small, battery powered dedicated display/remote that I could use in the backyard without having to pull out the phone. But I'm finding it's more valuable on the desk in my office where it is useful as a mute/next-track device.
 
+![](IMG-5874.jpg)
 
